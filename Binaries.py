@@ -6,4 +6,4 @@ while num > 0:
     resto = num % 2
     bina += str(resto)
     num //= 2
-print(f'The binarie of {numint} is...{bina[::-1]}')
+print(f'The binarie of the number {numint} is...{bina[::-1]}')
